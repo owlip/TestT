@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7466fb6d05838c4da029d8b99f5b3c8, type: 3}
+  m_Name: OPEL ASTRA
+  m_EditorClassIdentifier: 
+  mass: 1180
+  maxSpeed: 180
+  type: "\u0445\u044D\u0442\u0447\u0431\u0435\u043A"
+  brand: Opel
+  country: "\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+  class_auto: 67
+  colour: "\u043A\u0440\u0430\u0441\u043D\u044B\u0439"
+  driveUnit: FWD
+  value: 1.5
